@@ -11,19 +11,13 @@
     padding:15px;
 }
 
-.banner{
-	background-color: green;
-	height: 140px;
-
-}
-
 h2{
-	color: darkred;
+	color: black;
 	word-spacing: 5px;
 	font-size: 30px;
 	font-style: italic;
 	border-left-style: solid;
-	padding-left: 5px;
+	border-color:#9dd0e1;
 	font-family: 'Allerta Stencil', sans-serif;
 
 }
