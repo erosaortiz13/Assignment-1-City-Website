@@ -22,9 +22,9 @@
 	  		
 	  </p>
 	</div>
-	
+
 </div>
-<hr>
+
 <div class="container">
 
 	<div>
@@ -43,7 +43,7 @@
 </div>
 
 </div>
-<hr>
+
 
 <?php include "inc/footer.inc" ?>
 
