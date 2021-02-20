@@ -25,22 +25,18 @@
 
 </div>
 
+<h2>Key Locales</h2>
 <div class="container">
-
 	<div>
-		<h2>Key Locales</h2>
-	</div>
-
-	<div>
-	<img class="lav" src="images/pic_two.jpg" alt="Miami Nightlife">
-</div> 
+		<img class="lav" src="images/pic_two.jpg" alt="Miami Nightlife">
+	</div> 
 	<div>
 		
 	  	<p> The southern side of Miami includes the neighborhoods of Coral Way, The Roads and Coconut Grove. Coral Way is a historic residential neighborhood built in 1922 between Downtown and Coral Gables, and is home to many old homes and tree-lined streets. Coconut Grove, established in 1825, is a historic neighborhood with narrow, winding roads, and a heavy tree canopy. It is the location of Miami's City Hall at Dinner Key, the former Coconut Grove Playhouse, CocoWalk, and the Coconut Grove Convention Center. It is also home to many nightclubs, bars, restaurants, and bohemian shops, which makes it very popular with local college students. Coconut Grove is known for its many parks and gardens, such as Vizcaya Museum, The Kampong, The Barnacle Historic State Park, and numerous other historic homes and estates. 
 	  		
 	  	</p>
 	  
-</div>
+	</div>
 
 </div>
 
