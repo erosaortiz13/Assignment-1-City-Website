@@ -5,14 +5,9 @@
 <?php include "inc/head.inc" ?>
 
 <body>
-
-
-<div class="banner">
-	<a class="logo" href="index.php">
-	<h1><img src="images/logo.png" alt="logo">
-	Sunny Miami</h1></a>
-	<?php include "inc/nav.inc" ?>
-</div>
+	<header>
+		<?php include "inc/nav.inc" ?>
+	</header>
 
 <div class="container">
 
