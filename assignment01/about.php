@@ -8,28 +8,21 @@
 	<header>
 		<?php include "inc/nav.inc" ?>
 	</header>
+	<h2>Miami Beach</h2>
 
 <div class="container">
-
-<div>
-
-	  	<h2>Miami Beach</h2>
-
-</div>
-
-<div>
-	  	<img src="images/pic_one.jpg" alt="Miami Beach">
-	  	
-</div>
+	<div>
+		<img src="images/pic_one.jpg" alt="Miami Beach">
+	</div>
 
 
-<div>
+	<div>
 	  	<p>
 	  		Miami Beach is a coastal resort city in Miami-Dade County, Florida, United States. It was incorporated on March 26, 1915. The municipality is located on natural and man-made barrier islands between the Atlantic Ocean and Biscayne Bay, the latter of which separates the Beach from the mainland city of Miami. The neighborhood of South Beach, comprising the southernmost 2.5 square miles (6.5 km2) of Miami Beach, along with downtown Miami and the Port of Miami, collectively form the commercial center of South Florida. Miami Beach's estimated population is 88,885 according to the most recent United States census estimates. Miami Beach is the 26th largest city in Florida based on official 2019 estimates from the US Census Bureau. It has been one of America's pre-eminent beach resorts since the early 20th century. Florida as a whole is a very tropical state. 
 	  		
 	  </p>
-
-</div>
+	</div>
+	
 </div>
 <hr>
 <div class="container">
