@@ -14,7 +14,7 @@
 
 		<div class="brief">
 			  <a class ="content" href="about.php">Read More</a>
-			  <a class="wiki" href="https://en.wikipedia.org/wiki/miami">Information Source</a>
+			  <a class="content" href="https://en.wikipedia.org/wiki/miami">Information Source</a>
 		</div>
 	</div>
 
