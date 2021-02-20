@@ -26,7 +26,7 @@
 .menu li{
 	float:left;
 	color:black;
-	margin-top: 20px;
+	margin-left: 20px;
 }
 
 .menu a{
@@ -35,7 +35,7 @@
 	padding-left: 10px;
 	padding-right:20px;
 	font-weight: bold;
-	background-color: black;
+	color: black;
 }
 
 .nav-right{
@@ -49,7 +49,6 @@
 
 .menu a.is-current{
 	background-color: #ffe6f3;
-	color: black;
 }
 
 
